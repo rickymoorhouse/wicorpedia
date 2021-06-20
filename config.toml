@@ -55,7 +55,7 @@ disableLanguages        = []
     alwaysOnHomepage      = true
 
     [params.intro.pic]
-      src                 = "/logo.png"
+#      src                 = "/logo.png"
       shape               = "square"
       width               = ""
       alt                 = "Wicorpedia"
