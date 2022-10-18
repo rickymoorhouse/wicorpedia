@@ -1,5 +1,5 @@
 +++
-draft = true
+date = ""
 title = "October 2022"
 
 +++
