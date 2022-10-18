@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-10-17T23:00:00Z
 title = "October 2022"
 
 +++
