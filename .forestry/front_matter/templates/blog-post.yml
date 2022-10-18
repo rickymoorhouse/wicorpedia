@@ -16,5 +16,6 @@ fields:
     time_format: 
     display_utc: false
   label: Date
+  default: now
 pages:
 - content/october-2022.md
